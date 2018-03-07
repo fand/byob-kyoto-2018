@@ -1,6 +1,8 @@
 # byob-kyoto-2018
 http://www.byobworldwide.com/
 
+[![image](https://user-images.githubusercontent.com/1403842/37090454-ca31b6e0-2247-11e8-8c48-6ab3d62e6164.png)](https://twitter.com/nagayama/status/971344917396996096)
+
 ```
 nagayama
 夜の鴨川に各自プロジェクターを持ち寄って映像を投影しそれを鑑賞するようなことがしたい。こんな感じで 
@@ -17,9 +19,3 @@ amagitakayosi
 nagayama
 最高の夏じゃん 
 ```
-
-# TODO
-- [ ] 開催日決定
-- [ ] 許可取る
-- [ ] 参加者集め
-- [ ] 告知サイト or connpass
